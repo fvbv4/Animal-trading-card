@@ -1,6 +1,6 @@
 # Animal Trading Card
 
-This a project that combine **HTML** and **CSS** basic to create a card with a picture of a animal and some information about it.
+This is a project that combines **HTML** and **CSS** basics to create a card with a picture of a animal and some information about it.
 
 ## Install
 
